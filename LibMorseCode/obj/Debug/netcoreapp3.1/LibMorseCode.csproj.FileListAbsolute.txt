@@ -1,0 +1,9 @@
+E:\Morse-Code-master\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.deps.json
+E:\Morse-Code-master\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.dll
+E:\Morse-Code-master\LibMorseCode\bin\Debug\netcoreapp3.1\LibMorseCode.pdb
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csprojAssemblyReference.cache
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfoInputs.cache
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.AssemblyInfo.cs
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.csproj.CoreCompileInputs.cache
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.dll
+E:\Morse-Code-master\LibMorseCode\obj\Debug\netcoreapp3.1\LibMorseCode.pdb
